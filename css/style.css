@@ -1,0 +1,39 @@
+
+h1 {
+    color: darkblue;
+    font-size: 24px;
+    padding: 30px;
+    background-color:  #ce63ad;
+    text-align: center;
+}
+
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: space-around;
+    background-color: white;
+
+
+    }
+    
+div.BarChart-bar {
+    
+    background-color: skyblue;
+
+    height: 30px;
+    text-align: center;
+    letter-spacing: 3px;
+    cursor:pointer;
+    padding-top: 30px;
+
+}
+
+.BarChart-bar:hover {
+    background-color: #CEBAC8;
+    trasition: background-color 0.3s;
+    
+    
+}
+
+

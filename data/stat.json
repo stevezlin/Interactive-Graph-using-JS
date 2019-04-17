@@ -1,0 +1,68 @@
+[
+  {
+    "Rk": 1,
+    "Name": "Ben Roethlisberger",
+    "Team": "PIT",
+    "Yards": 5129
+  },
+  {
+    "Rk": 2,
+    "Name": "Patrick Mahomes*+",
+    "Team": "KAN",
+    "Yards": 5097
+  },
+  {
+    "Rk": 3,
+    "Name": "Matt Ryan",
+    "Team": "ATL",
+    "Yards": 4924
+  },
+  {
+    "Rk": 4,
+    "Name": "Jared Goff*",
+    "Team": "LAR",
+    "Yards": 4688
+  },
+  {
+    "Rk": 5,
+    "Name": "Andrew Luck*",
+    "Team": "IND",
+    "Yards": 4593
+  },
+  {
+    "Rk": 6,
+    "Name": "Aaron Rodgers*",
+    "Team": "GNB",
+    "Yards": 4442
+  },
+  {
+    "Rk": 7,
+    "Name": "Tom Brady*",
+    "Team": "NWE",
+    "Yards": 4355
+  },
+  {
+    "Rk": 8,
+    "Name": "Philip Rivers*",
+    "Team": "LAC",
+    "Yards": 4308
+  },
+  {
+    "Rk": 9,
+    "Name": "Eli Manning",
+    "Team": "NYG",
+    "Yards": 4299
+  },
+  {
+    "Rk": 10,
+    "Name": "Kirk Cousins",
+    "Team": "MIN",
+    "Yards": 4298
+  },
+  {
+    "Rk": 11,
+    "Name": "Deshaun Watson*",
+    "Team": "HOU",
+    "Yards": 4165
+  }
+]
